@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36128428595",
+    "project_id": "myapplication-063dfde7",
+    "storage_bucket": "myapplication-063dfde7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36128428595:android:0e87b3d4737648cd3c8946",
+        "android_client_info": {
+          "package_name": "com.example.worklognet1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQgqbmkobl2Anz4rLCgERC1d61NndEw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
